@@ -1,1 +1,1 @@
-# ergodox-osx-layout
+# Ergodox OSX Layout
